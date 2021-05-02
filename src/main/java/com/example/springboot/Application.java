@@ -13,7 +13,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		TOMER BREAK THE BUILD
+		System.out.println("TOMER BREAK THE BUILD");
 	}
 
 	@Bean
